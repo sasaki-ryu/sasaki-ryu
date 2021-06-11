@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sasaron&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/sasakiron/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasaron&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasaron" />
 </a>
 <!--
 **sasakiron/sasaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
